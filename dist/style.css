@@ -103,7 +103,7 @@ body {
 
 @media screen and (min-width: 1024px) {
   body {
-    background-image: url("/img/bg-desktop.svg");
+    background-image: url("https://github.com/jsingh-github/huddlelandingpage/blob/master/img/bg-desktop.svg");
     padding: 60px 80px 40px 80px;
   }
 }
